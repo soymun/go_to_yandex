@@ -48,8 +48,39 @@
               "icon": "lucide-file",
               "title": "Multithreading"
             }
+          },
+          {
+            "id": "44039d1eb7a8957b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "708687c60593bf8c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "23790445349e5cef",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -198,12 +229,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "250cabb279004068",
+  "active": "23790445349e5cef",
   "lastOpenFiles": [
+    "Повторение/Java/Base.md",
     "Повторение/Java/Annotation.md",
     "Повторение/Основы программирования/Основные принципы разработки.md",
     "Повторение/Основы программирования/ООП.md",
-    "Повторение/Java/Base.md",
     "Повторение/Java/Bitecode.md",
     "Повторение/Алгоритмы и структуры данных",
     "Повторение/Без названия.md",

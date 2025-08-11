@@ -7,22 +7,6 @@
       "key": "M"
     }
   ],
-  "obsidian-git:commit-smart": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Z"
-    }
-  ],
-  "obsidian-git:push2": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "X"
-    }
-  ],
   "editor:toggle-bold": [
     {
       "modifiers": [
@@ -31,12 +15,28 @@
       "key": "B"
     }
   ],
+  "obsidian-git:commit-smart": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
   "obsidian-git:pull": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "R"
+      "key": "Y"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "U"
     }
   ]
 }
