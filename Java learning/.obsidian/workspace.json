@@ -48,39 +48,8 @@
               "icon": "lucide-file",
               "title": "Multithreading"
             }
-          },
-          {
-            "id": "44039d1eb7a8957b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
-          },
-          {
-            "id": "708687c60593bf8c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
-          },
-          {
-            "id": "23790445349e5cef",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +178,23 @@
               "icon": "lucide-list",
               "title": "Структура Без названия"
             }
+          },
+          {
+            "id": "98992a46fe1ba59e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,8 +208,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23790445349e5cef",
+  "active": "250cabb279004068",
   "lastOpenFiles": [
+    "Повторение/Java/Multithreading.md",
     "Повторение/Java/Base.md",
     "Повторение/Java/Annotation.md",
     "Повторение/Основы программирования/Основные принципы разработки.md",
@@ -240,7 +220,6 @@
     "Повторение/Без названия.md",
     "Повторение/Java/Collection.md",
     "Повторение/Java/Reflection.md",
-    "Повторение/Java/Multithreading.md",
     "Повторение/Java/String.md",
     "Повторение/Java/Enum.md",
     "Повторение/Java/Off-heap.md",
