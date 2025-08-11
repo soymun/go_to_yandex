@@ -23,12 +23,20 @@
       "key": "X"
     }
   ],
+  "editor:toggle-bold": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ],
   "obsidian-git:pull": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "C"
+      "key": "R"
     }
   ]
 }
