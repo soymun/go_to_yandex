@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Повторение/Java/IO.md",
+                "file": "Повторение/Java/Collection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IO"
+              "title": "Collection"
             }
           },
           {
@@ -210,29 +210,37 @@
   },
   "active": "250cabb279004068",
   "lastOpenFiles": [
-    "Повторение/Java/Exception.md",
     "Повторение/Java/Enum.md",
+    "Повторение/Java/Exception.md",
+    "Повторение/Java/Generic.md",
     "Повторение/Java/IO.md",
-    "Повторение/Java/String.md",
-    "Повторение/Java/Stream.md",
-    "Повторение/Java/Collection.md",
     "Повторение/Java/Base.md",
-    "Повторение/Java/Bitecode.md",
-    "Повторение/Java/Serialization.md",
-    "image",
-    "image/Pasted image 20250816200225.png",
-    "Повторение/Java/ClassLoader.md",
     "Повторение/Java/Annotation.md",
+    "Без названия.canvas",
+    "Повторение/Java/Multithreading.md",
+    "Повторение/Java/Bitecode.md",
+    "Повторение/Java/ClassLoader.md",
+    "Повторение/Java/Collection.md",
+    "Повторение/Java/Stream.md",
+    "Повторение/Java/String.md",
+    "Повторение/Java/Serialization.md",
+    "Повторение/Java/Reflection.md",
+    "Повторение/Java/Off-heap.md",
+    "image/nio.gif",
+    "image/nio.gif",
+    "image/Pasted image 20250818142741.png",
+    "image/Pasted image 20250817211121.png",
+    "image/Pasted image 20250816200225.png",
+    "image/Pasted image 20250817210837.png",
+    "Презентация1.gif",
+    "Pasted image 20250818142721.png",
+    "image",
     "Повторение/Основы программирования/ООП.md",
     "Повторение/Основы программирования/Основные принципы разработки.md",
-    "Повторение/Java/Generic.md",
-    "Повторение/Java/Multithreading.md",
     "Заметки/Без названия.md",
     "Заметки",
     "Повторение/Алгоритмы и структуры данных",
     "Повторение/Без названия.md",
-    "Повторение/Java/Reflection.md",
-    "Повторение/Java/Off-heap.md",
     "Повторение/Java",
     "Повторение/Основы программирования/Основы ОС.md",
     "Повторение/Основы программирования/Drawing 2025-08-11 00.09.22.excalidraw.md",
@@ -242,7 +250,6 @@
     "Java base/Drawing 2025-08-10 18.51.51.excalidraw.md",
     "Java base/Drawing 2025-08-10 18.51.24.excalidraw.md",
     "Java base/Без названия.canvas",
-    "Без названия.canvas",
     "Повторение"
   ]
 }
