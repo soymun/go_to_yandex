@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Повторение/Java/Annotation.md",
+                "file": "Повторение/Java/Generic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Annotation"
+              "title": "Generic"
             }
           },
           {
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ковари",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -226,13 +226,25 @@
   },
   "active": "79685f7ec1e76857",
   "lastOpenFiles": [
+    "Повторение/Java/Exception.md",
     "Повторение/Java/Generic.md",
     "Повторение/Java/IO.md",
     "Повторение/Java/JVM.md",
     "Повторение/Java/Multithreading.md",
+    "Повторение/Java/Off-heap.md",
+    "Повторение/Java/Reflection.md",
+    "Повторение/Java/Serialization.md",
+    "Повторение/Java/Stream.md",
+    "Повторение/Java/String.md",
+    "Повторение/Java/ClassLoader.md",
     "Повторение/Java/Bitecode.md",
+    "Повторение/Java/Enum.md",
+    "Повторение/Java/Collection.md",
     "Повторение/Java/Base.md",
     "Повторение/Java/Annotation.md",
+    "Без названия.base",
+    "Повторение/Основы программирования/ООП.md",
+    "Повторение/Основы программирования/Основные принципы разработки.md",
     "image/Exchanger.gif",
     "image/nio.gif",
     "image/Semaphore.gif",
@@ -242,19 +254,8 @@
     "image/Pasted image 20250818142741.png",
     "image/Pasted image 20250817211121.png",
     "image/Pasted image 20250816200225.png",
-    "Повторение/Java/Exception.md",
-    "Повторение/Java/Enum.md",
-    "Повторение/Java/Stream.md",
-    "Повторение/Java/String.md",
     "image/CountDownLatch.gif",
-    "Повторение/Основы программирования/ООП.md",
     "Повторение/Оглавление.md",
-    "Повторение/Java/Serialization.md",
-    "Повторение/Java/Collection.md",
-    "Повторение/Java/Off-heap.md",
-    "Повторение/Java/Reflection.md",
-    "Повторение/Основы программирования/Основные принципы разработки.md",
-    "Повторение/Java/ClassLoader.md",
     "Заметки/Без названия.md",
     "Без названия.canvas",
     "image",
