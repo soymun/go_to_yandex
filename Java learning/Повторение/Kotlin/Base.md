@@ -1,0 +1,4 @@
+Fluency
+DSL
+Делегирование
+Corutines
