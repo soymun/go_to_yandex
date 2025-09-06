@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Повторение/DB/SQL.md",
+                "file": "Повторение/Build Tools/Gradle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL"
+              "title": "Gradle"
             }
           },
           {
@@ -238,8 +238,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8d246da574f65fd",
+  "active": "3b39631e354b0ed9",
   "lastOpenFiles": [
+    "Повторение/DevOps",
+    "Повторение/Build Tools/Maven.md",
+    "Повторение/Build Tools/Gradle.md",
+    "Повторение/Queue/ActiveMq.md",
+    "Повторение/Build Tools",
+    "Повторение/Queue/Jms.md",
+    "Повторение/Queue/RabbitMq.md",
+    "Повторение/Queue/Kafka.md",
+    "Повторение/DB/SQL.md",
+    "Повторение/Queue",
+    "Повторение/Queue.md",
     "Повторение/DB/PostgreSQL.md",
     "Повторение/DB/Connection Pool.md",
     "Повторение/DB/Оптимизация запросов.md",
@@ -257,7 +268,6 @@
     "Pasted image 20250906214731.png",
     "Повторение/Оглавление.md",
     "Без названия.base",
-    "Повторение/DB/SQL.md",
     "Повторение/Основы программирования/ООП.md",
     "Повторение/Основы программирования/Основные принципы разработки.md",
     "Повторение/Java/JDBC.md",
@@ -270,22 +280,13 @@
     "Повторение/Spring/Spring Framework.md",
     "Повторение/DB",
     "Повторение/Java/Multithreading.md",
-    "Повторение/Java/Off-heap.md",
-    "Повторение/Java/JVM.md",
     "Повторение/Quarkus",
-    "Повторение/Kotlin/Base.md",
     "Повторение/Kotlin",
-    "Повторение/Java/String.md",
-    "Повторение/Java/Annotation.md",
-    "Повторение/Java/Base.md",
-    "Повторение/Java/Bitecode.md",
     "Повторение/Spring",
     "Без названия.canvas",
     "image",
     "Заметки",
     "Повторение/Алгоритмы и структуры данных",
-    "Повторение/Java",
-    "Повторение/Основы программирования",
     "Java base/Без названия.canvas"
   ]
 }
