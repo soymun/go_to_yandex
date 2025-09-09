@@ -246,7 +246,7 @@ SELECT list of columns, window functions FROM table / joint tables / subquery WH
     
 7. FUNCTION_NAME(column_name)
     
-8. [FILTER (WHERE filter_clause)]
+8. FILTER (WHERE filter_clause)
     
 9. OVER
     
@@ -254,7 +254,7 @@ SELECT list of columns, window functions FROM table / joint tables / subquery WH
     
 11. ORDER BY (column names),
     
-12. [frame clause]
+12. frame clause
     
 
 SELECT Название функции (столбец для вычислений) OVER ( PARTITION BY столбец для группировки ORDER BY столбец для сортировки ROWS или RANGE выражение для ограничения строк в пределах группы )

@@ -39,28 +39,12 @@
             "id": "c8d246da574f65fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Повторение/Build Tools/Gradle.md",
-                "mode": "source",
-                "source": false
+                "file": "image/Pasted image 20250906215944.png"
               },
-              "icon": "lucide-file",
-              "title": "Gradle"
-            }
-          },
-          {
-            "id": "8de6a456e4005bfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Повторение/Java/Collection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Collection"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250906215944"
             }
           },
           {
@@ -240,37 +224,38 @@
   },
   "active": "3b39631e354b0ed9",
   "lastOpenFiles": [
+    "image/Pasted image 20250906215944.png",
+    "image/Pasted image 20250906215621.png",
+    "image/Pasted image 20250906215447.png",
+    "image/Pasted image 20250906215107.png",
+    "image/Pasted image 20250906214751.png",
+    "image/Pasted image 20250906214731.png",
+    "Повторение/DB/Оптимизация запросов.md",
+    "Повторение/DB/Connection Pool.md",
+    "Повторение/DB/Индексы.md",
+    "Повторение/DB/SQL.md",
+    "Повторение/DB/PostgreSQL.md",
+    "Повторение/DB/Базы данных.md",
+    "Повторение/Java/JDBC.md",
+    "Повторение/Java/Multithreading.md",
+    "Повторение/Build Tools/Gradle.md",
     "Повторение/DevOps",
     "Повторение/Build Tools/Maven.md",
-    "Повторение/Build Tools/Gradle.md",
     "Повторение/Queue/ActiveMq.md",
     "Повторение/Build Tools",
     "Повторение/Queue/Jms.md",
     "Повторение/Queue/RabbitMq.md",
     "Повторение/Queue/Kafka.md",
-    "Повторение/DB/SQL.md",
     "Повторение/Queue",
     "Повторение/Queue.md",
-    "Повторение/DB/PostgreSQL.md",
-    "Повторение/DB/Connection Pool.md",
-    "Повторение/DB/Оптимизация запросов.md",
-    "Повторение/DB/Индексы.md",
-    "Повторение/DB/Базы данных.md",
-    "Pasted image 20250906215944.png",
-    "Pasted image 20250906215755.png",
-    "Pasted image 20250906215621.png",
-    "Pasted image 20250906215600.png",
-    "Pasted image 20250906215447.png",
-    "Pasted image 20250906215311.png",
-    "Pasted image 20250906215107.png",
-    "Pasted image 20250906214925.png",
-    "Pasted image 20250906214751.png",
-    "Pasted image 20250906214731.png",
+    "image/Pasted image 20250906215755.png",
+    "image/Pasted image 20250906215600.png",
+    "image/Pasted image 20250906215311.png",
+    "image/Pasted image 20250906214925.png",
     "Повторение/Оглавление.md",
     "Без названия.base",
     "Повторение/Основы программирования/ООП.md",
     "Повторение/Основы программирования/Основные принципы разработки.md",
-    "Повторение/Java/JDBC.md",
     "Повторение/Spring/Spring Security.md",
     "Повторение/Spring/Spring Data.md",
     "Повторение/Spring/Actuator.md",
@@ -279,14 +264,12 @@
     "Повторение/Spring/Spring Boot.md",
     "Повторение/Spring/Spring Framework.md",
     "Повторение/DB",
-    "Повторение/Java/Multithreading.md",
     "Повторение/Quarkus",
     "Повторение/Kotlin",
     "Повторение/Spring",
     "Без названия.canvas",
     "image",
     "Заметки",
-    "Повторение/Алгоритмы и структуры данных",
     "Java base/Без названия.canvas"
   ]
 }
