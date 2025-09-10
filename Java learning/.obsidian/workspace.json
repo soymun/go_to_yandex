@@ -39,12 +39,14 @@
             "id": "c8d246da574f65fd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "image/Pasted image 20250906215944.png"
+                "file": "Повторение/Build Tools/Gradle.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250906215944"
+              "icon": "lucide-file",
+              "title": "Gradle"
             }
           },
           {
@@ -222,8 +224,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b39631e354b0ed9",
+  "active": "c8d246da574f65fd",
   "lastOpenFiles": [
+    "Повторение/Build Tools/Maven.md",
+    "Повторение/Build Tools/Gradle.md",
     "image/Pasted image 20250906215944.png",
     "image/Pasted image 20250906215621.png",
     "image/Pasted image 20250906215447.png",
@@ -238,9 +242,7 @@
     "Повторение/DB/Базы данных.md",
     "Повторение/Java/JDBC.md",
     "Повторение/Java/Multithreading.md",
-    "Повторение/Build Tools/Gradle.md",
     "Повторение/DevOps",
-    "Повторение/Build Tools/Maven.md",
     "Повторение/Queue/ActiveMq.md",
     "Повторение/Build Tools",
     "Повторение/Queue/Jms.md",
