@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Повторение/Build Tools/Gradle.md",
+                "file": "Повторение/Queue/Kafka.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gradle"
+              "title": "Kafka"
             }
           },
           {
@@ -226,6 +226,7 @@
   },
   "active": "c8d246da574f65fd",
   "lastOpenFiles": [
+    "Повторение/Spring/Spring Data.md",
     "Повторение/Build Tools/Maven.md",
     "Повторение/Build Tools/Gradle.md",
     "image/Pasted image 20250906215944.png",
@@ -259,7 +260,6 @@
     "Повторение/Основы программирования/ООП.md",
     "Повторение/Основы программирования/Основные принципы разработки.md",
     "Повторение/Spring/Spring Security.md",
-    "Повторение/Spring/Spring Data.md",
     "Повторение/Spring/Actuator.md",
     "Повторение/Spring/Spring AOP.md",
     "Повторение/Spring/Spring MVC.md",
