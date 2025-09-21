@@ -39,14 +39,13 @@
             "id": "c8d246da574f65fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Повторение/Queue/RabbitMq.md",
-                "mode": "source",
-                "source": false
+                "file": "Без названия 1.base",
+                "viewName": "Таблица"
               },
-              "icon": "lucide-file",
-              "title": "RabbitMq"
+              "icon": "lucide-table",
+              "title": "Без названия 1"
             }
           },
           {
@@ -96,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Оптимизация",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java base/Без названия.md",
+                "file": "Без названия 1.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура Без названия 1"
             }
           },
           {
@@ -205,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -227,8 +226,10 @@
   },
   "active": "c8d246da574f65fd",
   "lastOpenFiles": [
-    "Повторение/Queue/Паттерны в Queue.md",
+    "Без названия.base",
+    "Без названия 1.base",
     "Повторение/Queue/RabbitMq.md",
+    "Повторение/Queue/Паттерны в Queue.md",
     "Повторение/Queue/ActiveMq.md",
     "Повторение/Queue/Jms.md",
     "Повторение/Queue/Kafka.md",
@@ -258,7 +259,6 @@
     "image/Pasted image 20250906215311.png",
     "image/Pasted image 20250906214925.png",
     "Повторение/Оглавление.md",
-    "Без названия.base",
     "Повторение/Основы программирования/ООП.md",
     "Повторение/Основы программирования/Основные принципы разработки.md",
     "Повторение/Spring/Spring Security.md",
@@ -266,7 +266,6 @@
     "Повторение/Spring/Spring AOP.md",
     "Повторение/Spring/Spring MVC.md",
     "Повторение/Spring/Spring Boot.md",
-    "Повторение/Spring/Spring Framework.md",
     "Повторение/DB",
     "Повторение/Quarkus",
     "Повторение/Kotlin",
