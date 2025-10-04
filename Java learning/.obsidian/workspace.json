@@ -39,13 +39,14 @@
             "id": "c8d246da574f65fd",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Без названия 1.base",
-                "viewName": "Таблица"
+                "file": "Повторение/Оглавление.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Без названия 1"
+              "icon": "lucide-file",
+              "title": "Оглавление"
             }
           },
           {
@@ -95,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "iterator",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,7 +205,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -220,59 +221,58 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
-      "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c8d246da574f65fd",
   "lastOpenFiles": [
-    "Без названия.base",
+    "Повторение/DevOps/LINUX.md",
+    "Повторение/DevOps/Kubernetes.md",
+    "Повторение/DevOps/GIT.md",
+    "Повторение/DevOps/Docker.md",
+    "Повторение/DevOps/CI-CD.md",
+    "Повторение/Оглавление.md",
+    "Повторение/Api/gRPC.md",
+    "Повторение/Api/WebSocket.md",
+    "Повторение/Api/SOAP.md",
+    "Повторение/Api/REST.md",
+    "Повторение/Api/HTTP.md",
+    "Повторение/Api",
     "Без названия 1.base",
-    "Повторение/Queue/RabbitMq.md",
+    "Без названия.base",
     "Повторение/Queue/Паттерны в Queue.md",
-    "Повторение/Queue/ActiveMq.md",
     "Повторение/Queue/Jms.md",
+    "Повторение/Queue/ActiveMq.md",
     "Повторение/Queue/Kafka.md",
-    "Повторение/Build Tools/Gradle.md",
-    "Повторение/Build Tools/Maven.md",
-    "Повторение/DB/Базы данных.md",
-    "Повторение/DB/Индексы.md",
-    "Повторение/DB/Оптимизация запросов.md",
-    "Повторение/DB/Connection Pool.md",
-    "Повторение/DB/PostgreSQL.md",
+    "Повторение/Queue/RabbitMq.md",
+    "Повторение/Java/IO.md",
+    "Повторение/Java/Annotation.md",
+    "Повторение/Java/Exception.md",
+    "Повторение/Java/Enum.md",
+    "Повторение/Java/String.md",
+    "Повторение/Java/Multithreading.md",
+    "Повторение/Java/Stream.md",
     "Повторение/DB/SQL.md",
-    "Повторение/Spring/Spring Data.md",
+    "Повторение/DB/PostgreSQL.md",
+    "Повторение/DB/Connection Pool.md",
     "image/Pasted image 20250906215944.png",
     "image/Pasted image 20250906215621.png",
     "image/Pasted image 20250906215447.png",
     "image/Pasted image 20250906215107.png",
     "image/Pasted image 20250906214751.png",
     "image/Pasted image 20250906214731.png",
-    "Повторение/Java/JDBC.md",
-    "Повторение/Java/Multithreading.md",
     "Повторение/DevOps",
     "Повторение/Build Tools",
     "Повторение/Queue",
-    "Повторение/Queue.md",
     "image/Pasted image 20250906215755.png",
     "image/Pasted image 20250906215600.png",
     "image/Pasted image 20250906215311.png",
     "image/Pasted image 20250906214925.png",
-    "Повторение/Оглавление.md",
-    "Повторение/Основы программирования/ООП.md",
-    "Повторение/Основы программирования/Основные принципы разработки.md",
-    "Повторение/Spring/Spring Security.md",
-    "Повторение/Spring/Actuator.md",
-    "Повторение/Spring/Spring AOP.md",
-    "Повторение/Spring/Spring MVC.md",
-    "Повторение/Spring/Spring Boot.md",
     "Повторение/DB",
     "Повторение/Quarkus",
     "Повторение/Kotlin",
     "Повторение/Spring",
     "Без названия.canvas",
-    "image",
-    "Заметки",
     "Java base/Без названия.canvas"
   ]
 }
